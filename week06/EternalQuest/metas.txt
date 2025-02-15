@@ -1,0 +1,4 @@
+50
+SimpleGoal|Share my testimony.|Testify at least three times a year.|50|True
+EternalGoal [ ]Pay Tithe. (Pay my tithe monthly.)  Points: 50
+ChecklistGoal|Institute.|Scrutinize the spiritual lessons every week.|20|7|100|0

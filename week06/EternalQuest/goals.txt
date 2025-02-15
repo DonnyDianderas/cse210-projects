@@ -1,0 +1,4 @@
+50
+SimpleGoal|Pray daily.|Pray individually, apart from the family prayers.|20|True
+EternalGoal|Attend the Sacrament Meeting punctually.|Arrive on time-5minutes early.|10
+ChecklistGoal|Ministering.|Perform ministering every month.|30|12|100|1
